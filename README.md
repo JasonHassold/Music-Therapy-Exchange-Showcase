@@ -6,3 +6,9 @@ A showcase of the website Music Therapy Exchange that I build
 
 ### Profile Page
 ![](https://github.com/JasonHassold/Music-Therapy-Exchange-Showcase/blob/master/mtxprofile.PNG)
+
+### Search Interventions Page
+![](https://github.com/JasonHassold/Music-Therapy-Exchange-Showcase/blob/master/mtxsearch.PNG)
+
+### Show an Intervention
+![](https://github.com/JasonHassold/Music-Therapy-Exchange-Showcase/blob/master/mtxintervention.PNG)
